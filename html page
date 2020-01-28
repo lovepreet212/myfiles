@@ -1,0 +1,65 @@
+<html>
+
+<body>
+<style>
+
+#h{
+background-color:yellow;
+width:max-width;
+text-align:center;
+height:150px;
+
+}
+#mid{
+height:800px;
+width:max-width;
+padding-left;500px;
+
+}
+#f{
+background-color:yellow;
+height:100px;
+width:max-width;
+text-align:center;
+}
+#pic{
+text-align:right;
+height:150px;
+
+}
+</style>
+<header id='h'> <h1>Lovepreet Kaur </h1> 
+</header>
+<div id="mid" > <div id="pic"> <img src="me.jpg"  alt="oops" style="height:200px;"> </div>
+<p> Email: kaur12lovepreet@gmail.com <br>
+    Contact:4379747273<br> Address:46 yuile court,Brampton<br><br><br>
+<p style="color:green">ABOUT ME</p>
+<p>I am an international student studying in Computer Software and Database
+Development (CSAT) Program at Lambton College located in Toronto, ON, CA. I
+wish to explore my knowledge and skill with complete dedication for achieving
+organization and personal goal. I want to be familiar with this new culture and eager to
+meet new people.</p><br>
+<p style="color:green">ACADEMIC ITINERARY</p><br>
+Computer Software and Database Development (CSAT) from Lambton College
+Toronto, Ontario. (Jan 2020 - Present)<br>
+Bachelor's in Computer engineering from Punjab Technical University
+with 81% (May 2017)</p><br>
+<p style="color:green">SKILLS</p><br>
+
+Developed good management and leadership skill during IT Job experience.<br>
+Excellence at providing good customer services like handling customer queries, taking
+orders, billing at different store jobs.<br>
+Enthusiasti. Learning Attitude towards work and its applications.<br>
+Sound knowledge of Computer Programming Languages like C, C++, JAVA.</p><br>
+
+<p style="color:green">EXPERIENCE<br></p>
+1.5 Year of Experience as a Software Trainer in Allsoft Solutions and services Pvt.
+Ltd, Mohali, India. (June 2017 - Dec 2018)<br>
+ 6 month of experience as an Ielts Trainer, Amritsar, India (May 2019 - October 2019)<br> </div>
+
+	 
+	
+<footer id='h'> <h3>Contact us for further details</h3> </footer>
+
+</body>
+</html>
